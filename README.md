@@ -34,8 +34,6 @@
 Logo courtesy of [@drop-ice](https://github.com/drop-ice/).  
 Open letter: https://github.com/drop-ice/dear-github-2.0
 
-<br />
-
 ### Stats
 
 <img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true" />
