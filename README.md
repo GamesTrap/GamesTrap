@@ -36,8 +36,7 @@ Open letter: https://github.com/drop-ice/dear-github-2.0
 
 ### Stats
 
-<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true" />
-<img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true" />
+<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true"></img><img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true"></img>
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
 [website]: https://janschuerkamp.4lima.de/
