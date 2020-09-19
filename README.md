@@ -3,7 +3,7 @@
 ## I'm a Game/Engine Developer!
 - 🎮 I'm currently working on a Game Engine [TRAP][enginewebsite]!
 - ⚡ I'm currently learning C++20 starting from C++17
-- 🥅 2020 Goals: Make big progress in my Game Engine and getting a GF (Y'all know how hard it is 😂)
+- 🥅 2020 Goals: Make big progress in my Game Engine
 - 🇯🇵 Fun fact: I'm currently learning Japanese/日本語
 
 ### Connect with me:
