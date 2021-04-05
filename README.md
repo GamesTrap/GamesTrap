@@ -2,8 +2,8 @@
 
 ## I'm a Game/Engine Developer!
 - 🎮 I'm currently working on a Game Engine [TRAP][enginewebsite]!
-- ⚡ I'm currently learning C++20 starting from C++17
-- 🥅 2020 Goals: Make big progress in my Game Engine
+- ⚡ I'm currently learning about the new C++20 features
+- 🥅 2021 Goals: Finish porting TRAP to Vulkan API 1.2
 - 🇯🇵 Fun fact: I'm currently learning Japanese/日本語
 
 ### Connect with me:
@@ -27,12 +27,6 @@
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></img>
 
 <br />
-
-### Hey GitHub, cancel your contract with ICE!
-
-<img src="https://avatars2.githubusercontent.com/u/58058809?s=460&u=98d5957de9ace30ae6db75da31767eabdf9f3f6a&v=4" alt="Drop ICE" width="200px" height="200px"></img>  
-Logo courtesy of [@drop-ice](https://github.com/drop-ice/).  
-Open letter: https://github.com/drop-ice/dear-github-2.0
 
 ### Stats
 
