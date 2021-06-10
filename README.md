@@ -37,7 +37,7 @@
 
 ### Stats
 
-<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true"></img><img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true"></img>
+<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true"></img><img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true"></img>  
 ![](https://komarev.com/ghpvc/?username=GamesTrap)
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
