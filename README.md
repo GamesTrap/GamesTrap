@@ -26,7 +26,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></img>
 <img align="left" alt="Premake" width="26px" src="https://premake.github.io/img/premake-logo.png"></img>
 <img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg"></img>
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></img>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></img>
 <img align="left" alt="Oracle SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></img>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"></img>
