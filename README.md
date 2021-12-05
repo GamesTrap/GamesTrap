@@ -9,10 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="GamesTrap | Website" width="22px" src="media/globe-dark.svg#gh-light-mode-only"/>][website]
-[<img align="left" alt="GamesTrap | Instagram" width="22px" src="media/instagram-dark.svg#gh-light-mode-only"/>][instagram]
-[<img align="left" alt="GamesTrap | Website" width="22px" src="media/globe-light.svg#gh-dark-mode-only"/>][website]
-[<img align="left" alt="GamesTrap | Instagram" width="22px" src="media/instagram-light.svg#gh-dark-mode-only"/>][instagram]
+[<img align="left" alt="GamesTrap | Website" width="22px" src="media/globe-dark.svg"/>][website]
+[<img align="left" alt="GamesTrap | Instagram" width="22px" src="media/instagram-dark.svg"/>][instagram]
 
 <br/>
 
@@ -24,10 +22,8 @@
 <img align="left" alt="C#" width="29px" src="media/cs.png"/>
 <img align="left" alt="OpenGL®" width="50px" src="media/opengl.svg"/>
 <img align="left" alt="Vulkan®" width="65px" src="media/vulkan.svg"/>
-<img align="left" alt="Unity®" width="65px" src="media/unity-dark.svg#gh-light-mode-only"/>
-<img align="left" alt="Unity®" width="65px" src="media/unity-light.svg#gh-dark-mode-only"/>
-<img align="left" alt="Unreal® Engine" width="30px" src="media/ue-dark.svg#gh-light-mode-only"/>
-<img align="left" alt="Unreal® Engine" width="30px" src="media/ue-light.svg#gh-dark-mode-only"/>
+<img align="left" alt="Unity®" width="65px" src="media/unity-dark.svg"/>
+<img align="left" alt="Unreal® Engine" width="30px" src="media/ue-dark.svg"/>
 <img align="left" alt="Git" width="26px" src="media/git.svg"/>
 <img align="left" alt="Premake" width="26px" src="media/premake.png"/>
 <img align="left" alt="Trello" width="30x" src="media/trello.svg"/>
@@ -42,10 +38,8 @@
 
 ### Stats
 
-<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true#gh-light-mode-only"/>
-<img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true#gh-light-mode-only"/>
-<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only"/>
-<img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true&theme=dark#gh-dark-mode-only"/>
+<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true"/>
+<img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true"/>
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
 [website]: https://jan.trappedgames.de
