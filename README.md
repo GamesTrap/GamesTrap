@@ -33,7 +33,7 @@
 
 ### Stats
 
-![GamesTrap's Github Stats](https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true)  
+![GamesTrap's Github Stats](https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true)
 ![GamesTrap's Most Used Languages](https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true)
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
