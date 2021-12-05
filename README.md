@@ -9,37 +9,32 @@
 
 ### Connect with me:
 
-[<img align="left" alt="GamesTrap | Website" width="22px" src="media/globe-dark.svg"/>][website]
-[<img align="left" alt="GamesTrap | Instagram" width="22px" src="media/instagram-dark.svg"/>][instagram]
-
-<br/>
+[![GamesTrap | Website](media/globe-dark.svg)][website]
+[![GamesTrap | Instagram](media/instagram-dark.svg)][instagram]
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="media/vscode.svg"/>
-<img align="left" alt="Visual Studio" width="26px" src="media/visualstudio.svg"/>
-<img align="left" alt="C++" width="26px" src="media/cpp.svg"/>
-<img align="left" alt="C#" width="29px" src="media/cs.png"/>
-<img align="left" alt="OpenGL®" width="50px" src="media/opengl.svg"/>
-<img align="left" alt="Vulkan®" width="65px" src="media/vulkan.svg"/>
-<img align="left" alt="Unity®" width="65px" src="media/unity-dark.svg"/>
-<img align="left" alt="Unreal® Engine" width="30px" src="media/ue-dark.svg"/>
-<img align="left" alt="Git" width="26px" src="media/git.svg"/>
-<img align="left" alt="Premake" width="26px" src="media/premake.png"/>
-<img align="left" alt="Trello" width="30x" src="media/trello.svg"/>
-<img align="left" alt="Terminal" width="30px" src="media/terminal.svg"/>
-<img align="left" alt="Oracle® PL/SQL" width="30px" src="media/plsql.svg"/>
-<img align="left" alt="Oracle® MySQL" width="35px" src="media/mysql.svg"/>
-<img align="left" alt="Linux" width="26px" src="media/tux.svg"/>
-<img align="left" alt="Windows" width="45px" src="media/win11.svg"/>
-
-<br/>
-<br/>
+![Visual Studio Code](media/vscode.svg)
+![Visual Studio](media/visualstudio.svg)
+![C++](media/cpp.svg)
+![C#](media/cs.png)
+![OpenGL®](media/opengl.svg)
+![Vulkan®](media/vulkan.svg)
+![Unity®](media/unity-dark.svg)
+![Unreal® Engine](media/ue-dark.svg)
+![Git](media/git.svg)
+![Premake](media/premake.png)
+![Trello](media/trello.svg)
+![Terminal](media/terminal.png)
+![Oracle® PL/SQL](media/plsql.svg)
+![Oracle® MySQL](media/mysql.svg)
+![Linux](media/tux.svg)
+![Windows](media/win11.svg)
 
 ### Stats
 
-<img align="left" alt="GamesTrap's Github Stats" src="https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true"/>
-<img align="left" alt="GamesTrap's Most Used Languages" src="https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true"/>
+![GamesTrap's Github Stats](https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true)  
+![GamesTrap's Most Used Languages](https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true)
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
 [website]: https://jan.trappedgames.de
