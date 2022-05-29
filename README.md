@@ -3,8 +3,8 @@
 ## I'm a Game/Engine Developer!
 
 - 🎮 I'm currently working on a Game Engine [TRAP™][enginewebsite]!
-- ⚡ I'm currently learning about the new C++20 features
-- 🥅 2021 Goals: Finish porting TRAP™ to Vulkan® API 1.2
+- ⚡ I'm currently learning about the exotic features of the Vulkan® API (Mesh shading, RayTracing)
+- 🥅 2022 Goals: Bringing TRAP™ back to GitHub
 - 🇯🇵 Fun fact: I'm currently learning Japanese/日本語
 
 ### Connect with me:
@@ -39,5 +39,5 @@
 ![GamesTrap's Most Used Languages](https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true)
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
-[website]: https://jan.trappedgames.de
+[website]: https://trappedgames.de
 [instagram]: https://www.instagram.com/gamestraplive/
