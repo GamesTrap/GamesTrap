@@ -4,7 +4,7 @@
 
 - 🎮 I'm currently working on a Game Engine [TRAP™][enginewebsite]!
 - ⚡ I'm currently learning about the exotic features of the Vulkan® API (Mesh shading, RayTracing)
-- 🥅 2022 Goals: Bringing audio and physics to TRAP™
+- 🥅 2023 Goals: Bringing audio and multi-threading to TRAP™
 - 🇯🇵 Fun fact: I'm currently learning Japanese/日本語
 
 ### Connect with me:
