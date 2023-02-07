@@ -35,8 +35,8 @@
 
 ### Stats
 
-![GamesTrap's Github Stats](https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true)  
-![GamesTrap's Most Used Languages](https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true&langs_count=10)  
+![GamesTrap's Github Stats](https://github-readme-stats.gamestrap.vercel.app/api?username=GamesTrap&show_icons=true&count_private=true&hide_border=true&theme=transparent)  
+![GamesTrap's Most Used Languages](https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=transparent)  
 [![](https://www.codewars.com/users/GamesTrap/badges/large)](https://www.codewars.com/users/GamesTrap)
 
 [enginewebsite]: https://gamestrap.github.io/TRAP
