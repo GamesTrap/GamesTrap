@@ -3,8 +3,8 @@
 ## I'm a Game/Engine Developer!
 
 - 🎮 I'm currently working on a Game Engine [TRAP™][enginewebsite]!
-- ⚡ I'm currently learning about the exotic features of the Vulkan® API (Mesh shading, RayTracing)
-- 🥅 2023 Goals: Bringing audio and multi-threading to TRAP™
+<!-- - ⚡ I'm currently learning about the exotic features of the Vulkan® API (Mesh shading, RayTracing)-->
+<!-- - 🥅 2023 Goals: Bringing audio and multi-threading to TRAP™-->
 - 🇯🇵 Fun fact: I'm currently learning Japanese/日本語
 
 ### Connect with me:
@@ -26,7 +26,6 @@
 ![Unreal® Engine](media/ue-light.svg#gh-dark-mode-only)
 ![Git](media/git.svg)
 ![Premake](media/premake.png)
-![Trello](media/trello.svg)
 ![Terminal](media/terminal.png)
 ![Oracle® PL/SQL](media/plsql.svg)
 ![Oracle® MySQL](media/mysql.svg)
@@ -39,6 +38,6 @@
 ![GamesTrap's Most Used Languages](https://github-readme-stats.gamestrap.vercel.app/api/top-langs/?username=GamesTrap&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=transparent)  
 [![](https://www.codewars.com/users/GamesTrap/badges/large)](https://www.codewars.com/users/GamesTrap)
 
-[enginewebsite]: https://gamestrap.github.io/TRAP
+[enginewebsite]: https://gamestrap.github.io/TRAP-Docs
 [website]: https://trappedgames.de
 [instagram]: https://www.instagram.com/gamestraplive/
